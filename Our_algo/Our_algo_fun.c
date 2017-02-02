@@ -5,11 +5,6 @@
 #include <stdbool.h>
 #include"Our_algo_fun.h"
 
-#define k 64			//key size
-#define size 256		//state size
-#define no_of_time 100
-
-typedef unsigned char UC;
 UC N, d, Statevector1[size];
 int  a[ k ];
 
