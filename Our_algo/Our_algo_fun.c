@@ -1,7 +1,5 @@
 #include<stdio.h>
 #include<time.h>
-#include<stdlib.h>
-#include<stdint.h>
 #include <stdbool.h>
 #include"Our_algo_fun.h"
 
